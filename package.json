@@ -1,5 +1,5 @@
 {
-  "name": "fxp-jquery-pjax",
+  "name": "@fxp/jquery-pjax",
   "description": "jQuery plugin for ajax + pushState navigation",
   "version": "2.0.1",
   "main": "jquery.pjax.js",
